@@ -198,6 +198,6 @@ h1 {
   header {
     position: relative;
     height: 30vh;
-    border-bottom: 7px solid #eee;
+/*     border-bottom: 7px solid #eee; */
   }
 }
